@@ -1,4 +1,4 @@
-# MicroProject
+# Microprocessors Project 
 Interfacing Digital Displays with a PC
 
 Apparatus and their uses:
